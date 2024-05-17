@@ -1,0 +1,1 @@
+# Contador-de-Listas-Crescentes-em-Python
